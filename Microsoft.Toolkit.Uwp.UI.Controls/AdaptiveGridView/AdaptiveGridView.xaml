@@ -18,6 +18,7 @@
                                   SelectionMode="{TemplateBinding SelectionMode}"
                                   IsSwipeEnabled="False"
                                   IsTabStop="False"
+                                  Header="{TemplateBinding Header}"
                                   ScrollViewer.VerticalScrollMode="{TemplateBinding ScrollViewer.VerticalScrollMode}"
                                   ScrollViewer.VerticalScrollBarVisibility="{TemplateBinding ScrollViewer.VerticalScrollBarVisibility}"
                                   ItemsSource="{TemplateBinding ItemsSource}">
